@@ -1,0 +1,10 @@
+.b{
+    background-image:url("bg1.jpg");
+    background-size:cover;
+    background-position: center;
+    text-align:center;
+}
+#c{
+    background:whitesmoke;
+    border:7px ridge;
+}
